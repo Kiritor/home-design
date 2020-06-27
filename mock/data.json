@@ -1,0 +1,19 @@
+{
+  "status": 200,
+  "bannerList": [
+    "@/assets/images/banner02.jpg",
+    "@/assets/images/banner03.jpg",
+    "@/assets/images/banner04.jpg",
+    "@/assets/images/banner05.jpg",
+    "@/assets/images/banner06.jpg",
+    "@/assets/images/banner07.jpg"
+  ],
+  "menuList": [
+    {
+      "id": 1,
+      "title": "紫钻工艺",
+      "imageUrl": "@/assets/images/icon02.png",
+      "url": ""
+    }
+  ]
+}

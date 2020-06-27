@@ -1,4 +1,5 @@
 # home-design
+<<<<<<< HEAD
 
 ## Project setup
 ```
@@ -22,3 +23,6 @@ yarn lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+=======
+Vue家居设计公司移动端
+>>>>>>> 1cb13acf0a1d53433a3815df0553df957cd0a26d
